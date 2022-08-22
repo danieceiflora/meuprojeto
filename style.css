@@ -1,0 +1,62 @@
+h1{
+  font-family: 'Inter', sans-serif;
+  font-size: 56px; 
+  font-weight: normal;
+}
+
+body{
+  font-family: 'Inter', sans-serif;
+  text-align: center;
+  margin: 0;
+  
+}
+
+#main {
+width: 1080px;
+margin: auto auto 50px;
+}
+
+h1 span{
+  color: green;
+}
+
+span{
+  color: #FF9900;
+}
+
+p{
+  color: #FF0099;
+  font-size: 20px;
+  line-height: 28px;
+}
+
+a{
+  font-size: 25px;
+}
+
+#main img{
+  margin-top: 0px;
+  margin-bottom: 15px;
+}
+
+#footer a + a {
+  margin-top: 20px;
+  margin-left: 40px;
+  margin-right: 0px;
+  margin-bottom: 20px;
+}
+
+.line{
+  width: 568px;
+  height: 0;
+  border: 1px rgb(255, 0, 157) solid;
+  margin: 0 auto 8px;
+}
+
+#rodape img{
+  width: 150px;
+  height: auto;
+  position:fixed;
+  bottom: 0;
+  right: 0;
+}
